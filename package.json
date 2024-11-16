@@ -9,6 +9,6 @@
   "author": "Darren Jennings",
   "license": "MIT",
   "dependencies": {
-    "boxen": "^2.1.0"
+    "boxen": "^8.0.1"
   }
 }
